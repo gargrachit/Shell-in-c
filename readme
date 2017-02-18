@@ -1,0 +1,12 @@
+
+
+  *   The command for cd will be given with absolute path of the directory and name of directory should be correct .
+  *   Bonus commands "pinfo" and "pinfo pid " are working .
+  *   Builtin commands "pwd" , "echo" and "cd" are implemented , and not called by exec function . 
+  *   Other useful commands like vim , ls, ls -l , ls -la , ./a.out , are working .
+  *   prompt is the same as told to be in assignment . 
+  *   piping and redirection work seperately .
+  *   all user defined commands are working .
+  
+
+  
